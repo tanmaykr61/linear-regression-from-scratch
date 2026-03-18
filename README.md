@@ -57,9 +57,9 @@ $$
 
 where:
 
-- \(y_{\text{true}}\) = actual values  
-- \(y_{\text{pred}}\) = predicted values  
-- \(\bar{y}\) = mean of actual values  
+- $y_{\text{true}}$ = actual values  
+- $y_{\text{pred}}$ = predicted values  
+- $\bar{y}$ = mean of actual values  
 
 An R² score closer to 1 indicates a better fit.
 
