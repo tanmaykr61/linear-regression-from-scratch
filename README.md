@@ -1,6 +1,6 @@
 # Linear Regression from Scratch (NumPy)
 
-A from-scratch implementation of Linear Regression built entirely using NumPy.
+A ground-up implementation of Linear Regression built entirely using NumPy.
 
 ---
 
