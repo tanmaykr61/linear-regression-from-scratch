@@ -32,9 +32,9 @@ This implementation follows the standard structure of a simple Linear Regression
 
 The model predicts outputs using a linear equation:
 
-\[
+$$
 y = Wx + b
-\]
+$$
 
 ---
 
@@ -51,9 +51,9 @@ y = Wx + b
 
 The model performance is evaluated using the **R² score**, which measures how well the model explains the variance in the data:
 
-\[
+$$
 R^2 = 1 - \frac{\sum (y_{\text{true}} - y_{\text{pred}})^2}{\sum (y_{\text{true}} - \bar{y})^2}
-\]
+$$
 
 where:
 
